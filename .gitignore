@@ -1,0 +1,5 @@
+# Build output
+*.exe
+*.o
+*.obj
+/is-this-ascii
